@@ -28,6 +28,5 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendi-hendra&layout=donut&theme=radical" alt="Top Langs"> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendi-hendra&hide_progress=true&theme=radical" alt="Top Langs">
 </p>
