@@ -1,4 +1,4 @@
-# Hi there, I'm Rendi Hendra Syahputra 👋
+# Hi there, I'm Rendi Hendra Syahputra
 
 </p>
 <p align="center">
