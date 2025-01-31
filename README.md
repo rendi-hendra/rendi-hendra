@@ -1,7 +1,7 @@
 # Hi there, I'm Rendi Hendra Syahputra
 
 <p align="center">
-<!-- <a href="https://www.instagram.com/rendihndra/"><img alt="replit" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a> -->
+<a href="https://www.instagram.com/rendihndra/"><img alt="replit" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 <h1 align="center">MY 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦</h1>
