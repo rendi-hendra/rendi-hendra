@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendi-hendra&hide_progress=false&theme=radical&langs_count=8&layout=donut" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendi-hendra&hide_progress=false&theme=radical&langs_count=2&layout=donut" alt="Top Langs">
 </p>
