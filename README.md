@@ -1,19 +1,20 @@
 # Hi there, I'm Rendi Hendra Syahputra
 
-<p align="center">
-<a href="https://www.instagram.com/rendihndra/"><img alt="replit" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
-<h1 align="center">MY 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦</h1>
+### 🧰 Tech Stack
 
 <p align="center">
-<!-- <a href="https://github.com/rendi-hendra/"><img src="https://github-readme-streak-stats.herokuapp.com?user=rendi-hendra&theme=radical&hide_border=true&border_radius=10&locale=id&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a> -->
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,expressjs,react,nestjs,tailwind,prisma,mysql" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendi-hendra&hide_progress=false&theme=radical&langs_count=3&layout=donut" alt="Top Langs">
+---
+### 🔥 GitHub Stats
+<p align="">
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=rendi-hendra&theme=radical&hide_border=true&mode=weekly" alt="GitHub Streak"> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendi-hendra&hide_progress=false&theme=radical&langs_count=5&layout=donut&hide_border=true&size_weight=0.5&count_weight=1" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rendihndr&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="WakaTime">
 </p>
 
+---
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
