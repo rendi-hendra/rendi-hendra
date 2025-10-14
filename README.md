@@ -18,7 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   14 hrs 3 mins   ████████████████████▒░░░░   80.78 %
+Dart         1 hr 52 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
+PHP          1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+Bash         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
