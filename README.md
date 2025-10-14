@@ -13,3 +13,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendi-hendra&hide_progress=false&theme=radical&langs_count=3&layout=donut" alt="Top Langs">
 </p>
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
