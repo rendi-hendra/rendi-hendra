@@ -3,7 +3,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,expressjs,react,nestjs,tailwind,prisma,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,expressjs,react,nestjs,tailwind,prisma,mysql" />
 </p>
 
 ---
