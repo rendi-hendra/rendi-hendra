@@ -11,7 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+SQL    42 mins         ███████████████░░░░░░░░░░   59.67 %
+Dart   14 mins         █████░░░░░░░░░░░░░░░░░░░░   20.23 %
+PHP    14 mins         █████░░░░░░░░░░░░░░░░░░░░   20.10 %
 ```
 
 <!--END_SECTION:waka-->
